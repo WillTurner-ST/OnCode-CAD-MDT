@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.depLogo{
+width: 200px;
+height: 200px;
+}
+
+
+.loginCont{  
+  display: flex;
+  justify-content: center;
+   margin: 300px;
+}
+
+.mdtContainer{
+  width: fill;
+  height: 100px;
+}
