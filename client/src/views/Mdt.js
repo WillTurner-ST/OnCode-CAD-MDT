@@ -1,12 +1,5 @@
 import React from 'react';
-import { useState } from 'react';
-import { Menu, Transition } from '@headlessui/react';
-import {
-  ArrowLeftIcon,
-  ArrowRightIcon,
-  MenuAlt1Icon,
-  XIcon,
-} from '@heroicons/react/outline';
+
 import Oduty from '../components/Oduty';
 import NcicLookup from '../components/NcicLookup';
 import DutyList from '../components/DutyList';
